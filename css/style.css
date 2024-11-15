@@ -409,7 +409,8 @@ ul {
     max-width: 264px;
 }
 
-.footer-liicon{background-color: #4d5ae5;
+.footer-liicon{
+    /* background-color: #4d5ae5; */
     border-radius: 50%;
     width: 40px;
     height: 40px;
@@ -426,7 +427,8 @@ ul {
     border-radius: 50%;
     align-items: center;
     justify-content: center;
-    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    background-color: #4d5ae5;}
 
 .icon-a-footer:hover,
 .icon-a-footer:focus{background-color:#31d0aa;}
