@@ -287,7 +287,7 @@ ul {
 .icon-li-ourteam:hover,
 .icon-li-ourteam:focus{background-color: #404bbf;}
 .icon-li-ourteam{display: flex;
-        /* fill: #ffffff; */
+        fill: #ffffff;
         width: 100%;
         height: 100%;
         border-radius: 50%;
