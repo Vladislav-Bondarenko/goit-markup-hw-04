@@ -303,7 +303,7 @@ ul {
 .our-portfolio-ul{ display: flex;
                    flex-wrap: wrap;
                    gap: 48px 24px;
-                transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);}
+                }
 
 .our-portfolio{
         font-weight: 700;
@@ -348,7 +348,7 @@ ul {
     border-top: none;
 }
 
-.our-portfolio-li {}
+.our-portfolio-li{transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);}
 
 .our-portfolio-img{position: relative;
     overflow: hidden;
