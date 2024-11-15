@@ -267,7 +267,7 @@ ul {
     flex-direction: row;
 }
 
-.icon-our-team{fill: #ffffff;}
+.icon-our-team{fill:#f4f4fd;}
 
 .our-team-liicon{
     /* background-color: #4d5ae5; */
@@ -459,4 +459,4 @@ ul {
 }
 
 .logo-text-div{margin-right:120px;}
-.icon-footer{fill: #f4f4fd;}
+.icon-footer {fill: #f4f4fd;}
