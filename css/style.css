@@ -423,7 +423,7 @@ ul {
     
 
 .icon-a-footer{display: flex;
-    fill: #ffffff;
+    /* fill: #ffffff; */
     width:100%;
     height:100%;
     border-radius: 50%;
@@ -459,3 +459,4 @@ ul {
 }
 
 .logo-text-div{margin-right:120px;}
+.icon-footer{fill: #f4f4fd;}
